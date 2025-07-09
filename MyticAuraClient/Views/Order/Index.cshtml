@@ -1,0 +1,42 @@
+﻿@model List<MyticAuraClient.DTOs.Order.ReadOrderDto>
+
+<h2>Danh sách đơn hàng</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã đơn</th>
+            <th>Ngày tạo</th>
+            <th>Tổng tiền</th>
+            <th>Trạng thái</th>
+            <th>Thao tác>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.OrderID</td>
+                <td>@order.CreatedAt.ToLocalTime().ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@order.TotalAmount.ToString("N0") đ</td>
+                <td>@order.Status</td>
+                <td>
+                    <a asp-controller="Order" asp-action="Details" asp-route-id="@order.OrderID" class="btn btn-info btn-sm">Chi tiết</a>
+
+                    @if (order.Status == "Pending")
+                    {
+                        <form asp-controller="Order" asp-action="Cancel" asp-route-id="@order.OrderID" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Bạn có chắc muốn hủy đơn hàng này?')">Hủy đơn</button>
+                        </form>
+                    }
+                    else if (order.Status == "Shipped")
+                    {
+                        <form asp-controller="Order" asp-action="Confirm" asp-route-id="@order.OrderID" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-success btn-sm">Xác nhận hoàn thành</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

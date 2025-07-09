@@ -1,0 +1,39 @@
+﻿@model List<MyticAuraClient.DTOs.Orderdetail.ReadOrderDetailDto>
+@{
+    ViewData["Title"] = "Chi tiết đơn hàng";
+    Guid orderId = (Guid)ViewBag.OrderId;
+}
+
+<h2>📦 Chi tiết đơn hàng @orderId</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning">Đơn hàng không có sản phẩm nào.</div>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Sản phẩm</th>
+                <th>Kích thước</th>
+                <th>Số lượng</th>
+                <th>Giá</th>
+                <th>Thành tiền</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ProductId</td>
+                    <td>@item.Size</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Price.ToString("N0") đ</td>
+                    <td>@(item.Quantity* item.Price).ToString("N0") đ</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+<a asp-action="Index" class="btn btn-secondary">⬅ Quay lại</a>

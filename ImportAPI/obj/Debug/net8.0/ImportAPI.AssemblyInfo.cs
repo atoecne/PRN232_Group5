@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImportAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+649c957855ee7d7545789ed99d5524d50b0ef851")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImportAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImportAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

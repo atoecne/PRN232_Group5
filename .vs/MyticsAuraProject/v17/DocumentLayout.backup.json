@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\blogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\blogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\services\\blogservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\services\\blogservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\repositories\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\repositories\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\services\\commentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\services\\commentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\services\\interfaces\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\services\\interfaces\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\dtos\\moderatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dtos\\moderatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\dtos\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dtos\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\dtos\\readblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dtos\\readblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\profiles\\blogprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\profiles\\blogprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\repositories\\interfaces\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\repositories\\interfaces\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\profiles\\commentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\profiles\\commentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\dtos\\updateblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dtos\\updateblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\dtos\\readcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dtos\\readcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\dtos\\createblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dtos\\createblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\blogapi\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352004FF-31D4-415F-8310-786E4E1A6348}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B082291-3B59-461F-A6B9-FE0D11EFFE96}|ImportAPI\\ImportAPI.csproj|d:\\from c\\f\\25\\prn232\\g5project\\h\\prn232_group5\\importapi\\importapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B082291-3B59-461F-A6B9-FE0D11EFFE96}|ImportAPI\\ImportAPI.csproj|solutionrelative:importapi\\importapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogAPI.csproj",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\BlogAPI.csproj",
+              "RelativeDocumentMoniker": "BlogAPI\\BlogAPI.csproj",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\BlogAPI.csproj",
+              "RelativeToolTip": "BlogAPI\\BlogAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T06:01:27.565Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogAPI\\appsettings.json",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\appsettings.json",
+              "RelativeToolTip": "BlogAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T06:29:30.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentServices.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Services\\CommentServices.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Services\\CommentServices.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Services\\CommentServices.cs",
+              "RelativeToolTip": "BlogAPI\\Services\\CommentServices.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:32:43.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Repositories\\Interfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Repositories\\Interfaces\\ICommentRepository.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Repositories\\Interfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "BlogAPI\\Repositories\\Interfaces\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:29:07.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Repositories\\CommentRepository.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "BlogAPI\\Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:30:36.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:33:20.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogServices.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Services\\BlogServices.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Services\\BlogServices.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Services\\BlogServices.cs",
+              "RelativeToolTip": "BlogAPI\\Services\\BlogServices.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:42:19.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Models\\Comment.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Models\\Comment.cs",
+              "RelativeToolTip": "BlogAPI\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:23:10.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Models\\Blog.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Models\\Blog.cs",
+              "RelativeToolTip": "BlogAPI\\Models\\Blog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:52:04.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Services\\Interfaces\\ICommentService.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Services\\Interfaces\\ICommentService.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Services\\Interfaces\\ICommentService.cs",
+              "RelativeToolTip": "BlogAPI\\Services\\Interfaces\\ICommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:31:59.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModerateCommentDto.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\DTOs\\ModerateCommentDto.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTOs\\ModerateCommentDto.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\DTOs\\ModerateCommentDto.cs",
+              "RelativeToolTip": "BlogAPI\\DTOs\\ModerateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:18:50.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\DTOs\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTOs\\CreateCommentDto.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\DTOs\\CreateCommentDto.cs",
+              "RelativeToolTip": "BlogAPI\\DTOs\\CreateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:27:15.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReadBlogDto.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\DTOs\\ReadBlogDto.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTOs\\ReadBlogDto.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\DTOs\\ReadBlogDto.cs",
+              "RelativeToolTip": "BlogAPI\\DTOs\\ReadBlogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:28:29.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlogProfile.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Profiles\\BlogProfile.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Profiles\\BlogProfile.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Profiles\\BlogProfile.cs",
+              "RelativeToolTip": "BlogAPI\\Profiles\\BlogProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:35:56.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Repositories\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Repositories\\BlogRepository.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Repositories\\BlogRepository.cs",
+              "RelativeToolTip": "BlogAPI\\Repositories\\BlogRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:40:49.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Program.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Program.cs",
+              "RelativeToolTip": "BlogAPI\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:17:40.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Services\\Interfaces\\IBlogService.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Services\\Interfaces\\IBlogService.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Services\\Interfaces\\IBlogService.cs",
+              "RelativeToolTip": "BlogAPI\\Services\\Interfaces\\IBlogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:41:50.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Repositories\\Interfaces\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Repositories\\Interfaces\\IBlogRepository.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Repositories\\Interfaces\\IBlogRepository.cs",
+              "RelativeToolTip": "BlogAPI\\Repositories\\Interfaces\\IBlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:40:13.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommentProfile.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Profiles\\CommentProfile.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Profiles\\CommentProfile.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Profiles\\CommentProfile.cs",
+              "RelativeToolTip": "BlogAPI\\Profiles\\CommentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:28:30.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Models\\User.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Models\\User.cs",
+              "RelativeToolTip": "BlogAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:33:22.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateBlogDto.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\DTOs\\UpdateBlogDto.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTOs\\UpdateBlogDto.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\DTOs\\UpdateBlogDto.cs",
+              "RelativeToolTip": "BlogAPI\\DTOs\\UpdateBlogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:08:48.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReadCommentDto.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\DTOs\\ReadCommentDto.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTOs\\ReadCommentDto.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\DTOs\\ReadCommentDto.cs",
+              "RelativeToolTip": "BlogAPI\\DTOs\\ReadCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:27:56.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateBlogDto.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\DTOs\\CreateBlogDto.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTOs\\CreateBlogDto.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\DTOs\\CreateBlogDto.cs",
+              "RelativeToolTip": "BlogAPI\\DTOs\\CreateBlogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:18:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Data\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Data\\BlogDbContext.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Data\\BlogDbContext.cs",
+              "RelativeToolTip": "BlogAPI\\Data\\BlogDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:38:28.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\BlogsController.cs",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\BlogAPI\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:32:39.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ImportAPI.csproj",
+              "DocumentMoniker": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\ImportAPI\\ImportAPI.csproj",
+              "RelativeDocumentMoniker": "ImportAPI\\ImportAPI.csproj",
+              "ToolTip": "D:\\From c\\F\\25\\PRN232\\G5Project\\H\\PRN232_Group5\\ImportAPI\\ImportAPI.csproj",
+              "RelativeToolTip": "ImportAPI\\ImportAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T07:59:43.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

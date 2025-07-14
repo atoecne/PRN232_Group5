@@ -589,3 +589,4 @@ D:\From c\F\25\PRN232\G5Project\H\PRN232_Group5\BlogAPI\obj\Debug\net8.0\refint\
 D:\From c\F\25\PRN232\G5Project\H\PRN232_Group5\BlogAPI\obj\Debug\net8.0\BlogAPI.pdb
 D:\From c\F\25\PRN232\G5Project\H\PRN232_Group5\BlogAPI\obj\Debug\net8.0\BlogAPI.genruntimeconfig.cache
 D:\From c\F\25\PRN232\G5Project\H\PRN232_Group5\BlogAPI\obj\Debug\net8.0\ref\BlogAPI.dll
+D:\From c\F\25\PRN232\G5Project\H\PRN232_Group5\BlogAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

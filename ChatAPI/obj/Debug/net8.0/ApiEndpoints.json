@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ChatAPI.Controllers.ChatController",
+    "Method": "Ask",
+    "RelativePath": "api/Chat/ask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ChatAPI.DTOs.ChatRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ChatAPI.Controllers.ChatController",
+    "Method": "SampleQuestions",
+    "RelativePath": "api/Chat/sample",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

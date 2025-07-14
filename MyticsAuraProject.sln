@@ -7,6 +7,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportAPI", "ImportAPI\Impo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogAPI", "BlogAPI\BlogAPI.csproj", "{352004FF-31D4-415F-8310-786E4E1A6348}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIGateway", "..\..\PRN232_Group5-main\APIGateway\APIGateway.csproj", "{CEEE1C1D-8EE7-E222-F086-689DA91F0A6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartAPI", "..\..\PRN232_Group5-main\CartAPI\CartAPI.csproj", "{3381966D-FE44-1CF0-C854-4944C4A7B592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyticAuraClient", "..\..\PRN232_Group5-main\MyticAuraClient\MyticAuraClient.csproj", "{2F85FD5C-DD88-3F5E-5E87-A92DA75ADCFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderAPI", "..\..\PRN232_Group5-main\OrderAPI\OrderAPI.csproj", "{4F101BD4-BA9F-3FC7-EDD6-E59D39C223BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAPI", "ChatAPI\ChatAPI.csproj", "{DBF60D6C-8EAD-4781-8A89-A6AC19E44514}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +31,26 @@ Global
 		{352004FF-31D4-415F-8310-786E4E1A6348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{352004FF-31D4-415F-8310-786E4E1A6348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{352004FF-31D4-415F-8310-786E4E1A6348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEEE1C1D-8EE7-E222-F086-689DA91F0A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEE1C1D-8EE7-E222-F086-689DA91F0A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEE1C1D-8EE7-E222-F086-689DA91F0A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEE1C1D-8EE7-E222-F086-689DA91F0A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3381966D-FE44-1CF0-C854-4944C4A7B592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3381966D-FE44-1CF0-C854-4944C4A7B592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3381966D-FE44-1CF0-C854-4944C4A7B592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3381966D-FE44-1CF0-C854-4944C4A7B592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F85FD5C-DD88-3F5E-5E87-A92DA75ADCFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F85FD5C-DD88-3F5E-5E87-A92DA75ADCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F85FD5C-DD88-3F5E-5E87-A92DA75ADCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F85FD5C-DD88-3F5E-5E87-A92DA75ADCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F101BD4-BA9F-3FC7-EDD6-E59D39C223BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F101BD4-BA9F-3FC7-EDD6-E59D39C223BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F101BD4-BA9F-3FC7-EDD6-E59D39C223BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F101BD4-BA9F-3FC7-EDD6-E59D39C223BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF60D6C-8EAD-4781-8A89-A6AC19E44514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF60D6C-8EAD-4781-8A89-A6AC19E44514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF60D6C-8EAD-4781-8A89-A6AC19E44514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF60D6C-8EAD-4781-8A89-A6AC19E44514}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

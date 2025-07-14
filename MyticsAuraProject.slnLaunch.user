@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BlogAPI\\BlogAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\..\\PRN232_Group5-main\\APIGateway\\APIGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\..\\PRN232_Group5-main\\MyticAuraClient\\MyticAuraClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ChatAPI\\ChatAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
